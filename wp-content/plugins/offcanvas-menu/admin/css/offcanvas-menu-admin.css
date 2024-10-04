@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.toplevel_page_offcanvas-menu .form-table th{width:400px;}
+.enweby-popular-products{background:url('../images/62624-sm.jpg') !important;padding: 10px; border-radius: 5px; max-width: 95%; text-align:center;background-size:cover !important;}
+.enweby-popular-products  label {margin-bottom:30px;color:#CF3F57;font-size:1.4rem;font-weight:600;float:left;width:100%;}
+.enweby-popular-products ul{margin:0;}
+.enweby-popular-products ul li{list-style:none;display:inline-block;max-width:142px;margin-bottom:0;}
+.enweby-popular-products ul li p{font-size:14px;font-weight:500;}
+.enweby-popular-products .enweby-plugins img{width:85px;}
+
+.enweby-popular-products ul li{padding:0 10px; -webkit-transition: all 0.4s ease 0s; -moz-transition: all 0.4s ease 0s;     -o-transition: all 0.4s ease 0s;   transition: all 0.4s ease 0s;}
+.enweby-popular-products ul li a{text-decoration:none; -webkit-transition: all 0.4s ease 0s; -moz-transition: all 0.4s ease 0s;     -o-transition: all 0.4s ease 0s;   transition: all 0.4s ease 0s;}
+.enweby-popular-products ul li:hover img{transform: scale(1.1);box-shadow:rgb(38 57 77) 0px 20px 30px -10px !important;-webkit-transition: all 0.5s ease 0s; -moz-transition: all 0.5s ease 0s;  -o-transition: all 0.5s ease 0s; transition: all 0.5s ease 0s;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+.enweby-popular-products ul li:hover a{color:#CF3F57;}
